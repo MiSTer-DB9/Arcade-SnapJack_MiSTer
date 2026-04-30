@@ -38,5 +38,3 @@ set_global_assignment -name VHDL_FILE rtl/ladybug_char.vhd
 set_global_assignment -name VHDL_FILE rtl/ladybug_addr_dec.vhd
 set_global_assignment -name VHDL_FILE rtl/ladybug.vhd
 set_global_assignment -name SYSTEMVERILOG_FILE "Arcade-SnapJack.sv"
-set_global_assignment -name VERILOG_FILE joydb9md.v
-set_global_assignment -name VERILOG_FILE joydb15.v
